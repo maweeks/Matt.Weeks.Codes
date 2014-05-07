@@ -29,8 +29,8 @@ html {
 }
 .banner .container {
     background-color: #009b9b;
-    min-height: 200px;
-    padding: 40px 30px 30px 40px;
+    min-height: 50px;
+    padding: 0px 20px 10px 20px;
 }
 .banner .container p {
     font-size: 22px;
@@ -56,10 +56,12 @@ html {
     background-color: #474747;
 }
 .bottom .container {
+    padding: 5px 0px 0px 0px;
     background-color: #373737;
-    min-height: 150px;
+    min-height: 50px;
+    text-align: center;
 }
-.bottom .container h3 {
+.bottom .container h4 {
     color: #999;
 }
 .bottom .container p {
@@ -85,4 +87,15 @@ html {
 }
 .to-tutorial {
     text-align: center;
+}
+
+.contactForm {
+    max-width: 340px;
+    width: 100%;
+}
+
+#messageContent {
+    max-width: 100%;
+    min-width: 100%;
+    width: 100%;
 }
