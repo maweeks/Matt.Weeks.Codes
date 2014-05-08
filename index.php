@@ -20,7 +20,7 @@
                     <p>
                     	I'm Matt Weeks, a student at the University of Kent Canterbury and currently working for Cisco in California.<br><br>
 
-                    	I'm a programmer/web developer with experience programming in multiple languages including HTML, JavaScript, Python, Java and more as well as using all the major operating systems.<br><br>
+                    	I'm a programmer/web developer with experience programming in multiple languages including HTML, JavaScript, Python, Java and more, as well as using all the major operating systems.<br><br>
 
                     	At Cisco, I'm currently working in the OpenStack team improving network visibility to improve the efficiency of network operations.<br><br>
 
