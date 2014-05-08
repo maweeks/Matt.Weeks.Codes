@@ -15,17 +15,19 @@
         <? include "includes/banner.php" ?>
         <div class="middle">
             <div class="container">
-                <div class="col-md-8 content">
-                    <h2>This is my website.</h2>
-                    <p>Welcome my website, here you can learn all about me, enjoy.</p>
-                </div>
-                <div class="col-md-4">
-                    <h2>Current projects</h2>
-                    <ul class="nav nav-pills nav-stacked">
-                        <li><a>Clash Tracker</a></li>
-                        <li><a>ECC Designs</a></li>
-                        <li><a>Mail me later</a></li>
-                    </ul>
+                <div class="col-md-12 content">
+                    <h2>Hello!</h2>
+                    <p>
+                    	I'm Matt Weeks, currently a University of Kent student and working for Cisco in California.<br><br>
+
+                    	I'm a programmer/web developer with experience programming in multiple languages including HTML, JavaScript, Python, Java and more as well as using all the major operating systems.<br><br>
+
+                    	At Cisco, I'm currently working in the OpenStack team to improving network visibility to improve the efficiency of network operations.<br><br>
+
+                    	Outside of work my main hobbies are playing/listening to music, tennis, skiing, mountain biking and photography (you can take a look at some of my photos on the Photography tab.).<br><br>
+
+                    	For details of the courses I've been taking at University please check out my Linkedin <a href="http://www.linkedin.com/in/mweeks1" target="_blank">profile</a>.
+                    </p>
                 </div>
             </div>
         </div>
