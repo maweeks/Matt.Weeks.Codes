@@ -17,7 +17,15 @@
             <div class="container">
                 <div class="col-md-12 content">
                     <h2>Projects</h2>
-                    <p>I am currently working on a number of projects in multiple areas of computing, including visualisations and web design. This page will be updated as these become available to the public.</p>
+                    <p>
+                    	I am currently working for Cisco in the Cloud Computing/OpenStack department. The team is currently working on improving network visibility to improve the efficiency of network operations.
+                    	<br><br>
+
+                    	As well as this, I am currently working on a number of other projects in multiple areas of computing, including visualisations and web design. This page will be updated as these become available to the public.
+                    	<br><br>
+
+                    	For additional informaion you can also check out my linkedin <a href="http://www.linkedin.com/in/mweeks1" target="_blank">profile</a>.
+                    </p>
                 </div>
             </div>
         </div>
