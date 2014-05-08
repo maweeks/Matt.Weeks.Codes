@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" href="includes/favicon2.ico"/>
+        <link rel="shortcut icon" href="includes/favicon.ico"/>
         <title>Matt Weeks Codes</title>
         <link href="includes/bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <link href="includes/style.css" rel="stylesheet">
