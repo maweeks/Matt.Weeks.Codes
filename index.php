@@ -6,19 +6,19 @@
         <link rel="shortcut icon" href="includes/favicon.ico"/>
         <title>Matt Weeks Codes</title>
         <link href="includes/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <link href="includes/style.css" rel="stylesheet">
+        <link href="includes/css/style.css" rel="stylesheet">
     </head>
     <body>
         <script src="includes/jquery/jquery-2.1.0.min.js"></script>
         <script src="includes/bootstrap/js/bootstrap.min.js"></script>
-        <? include "includes/header.php" ?>
-        <? include "includes/banner.php" ?>
+        <? include "includes/php/header.php" ?>
+        <? include "includes/php/banner.php" ?>
         <div class="middle">
             <div class="container">
                 <div class="col-md-12 content">
                     <h2>Hello!</h2>
                     <p>
-                    	I'm Matt Weeks, a student at the University of Kent Canterbury and currently working for Cisco in California.<br><br>
+                    	I'm Matt Weeks, a student at the University of Kent Canterbury currently working for Cisco in California.<br><br>
 
                     	I'm a programmer/web developer with experience programming in multiple languages including HTML, JavaScript, Python, Java and more, as well as using all the major operating systems.<br><br>
 
@@ -31,6 +31,6 @@
                 </div>
             </div>
         </div>
-        <? include "includes/footer.php" ?>
+        <? include "includes/php/footer.php" ?>
     </body>
 </html>
