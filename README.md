@@ -1,4 +1,4 @@
 Matt.Weeks.Codes
 ================
 
-Designing the website that will be used on matt.weeks.codes.
+The website that will be served on matt.weeks.codes.
